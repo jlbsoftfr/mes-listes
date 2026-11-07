@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="viaVosges.ch" tvg-name="L'EQUIPE HD" tvg-logo="http://hariosim.dad/pubs/december2020/12-20-2020/lequipe.png" group-title="SPORT FR",L'EQUIPE HD
+http://vipnova.top:80/784517679325690/1593574628/7735
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="L'EQUIPE FHD" tvg-logo="http://hariosim.dad/pubs/december2020/12-20-2020/lequipe.png" group-title="SPORT FR",L'EQUIPE FHD
+http://vipnova.top:80/784517679325690/1593574628/143
